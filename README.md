@@ -1,5 +1,8 @@
 # Lili - Health Related Products
 
 ## Smart wearables
-- [Apple Watch](https://www.apple.com/watch/)
-- ...
+
+| Name        | URL                               | Country  | Year    |
+| ----------- | --------------------------------- |  ------- | ------- |
+| Apple Watch | https://www.apple.com/watch/      | USA      | 2015    |
+| Paragraph   | Text                              |          |         |         
